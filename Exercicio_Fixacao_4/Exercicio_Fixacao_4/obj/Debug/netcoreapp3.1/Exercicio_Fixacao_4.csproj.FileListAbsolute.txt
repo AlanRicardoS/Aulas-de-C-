@@ -1,0 +1,13 @@
+C:\Users\alanr\Documents\dev\.NET\Aulas-de-C-\Exercicio_Fixacao_4\Exercicio_Fixacao_4\bin\Debug\netcoreapp3.1\Exercicio_Fixacao_4.exe
+C:\Users\alanr\Documents\dev\.NET\Aulas-de-C-\Exercicio_Fixacao_4\Exercicio_Fixacao_4\bin\Debug\netcoreapp3.1\Exercicio_Fixacao_4.deps.json
+C:\Users\alanr\Documents\dev\.NET\Aulas-de-C-\Exercicio_Fixacao_4\Exercicio_Fixacao_4\bin\Debug\netcoreapp3.1\Exercicio_Fixacao_4.runtimeconfig.json
+C:\Users\alanr\Documents\dev\.NET\Aulas-de-C-\Exercicio_Fixacao_4\Exercicio_Fixacao_4\bin\Debug\netcoreapp3.1\Exercicio_Fixacao_4.runtimeconfig.dev.json
+C:\Users\alanr\Documents\dev\.NET\Aulas-de-C-\Exercicio_Fixacao_4\Exercicio_Fixacao_4\bin\Debug\netcoreapp3.1\Exercicio_Fixacao_4.dll
+C:\Users\alanr\Documents\dev\.NET\Aulas-de-C-\Exercicio_Fixacao_4\Exercicio_Fixacao_4\bin\Debug\netcoreapp3.1\Exercicio_Fixacao_4.pdb
+C:\Users\alanr\Documents\dev\.NET\Aulas-de-C-\Exercicio_Fixacao_4\Exercicio_Fixacao_4\obj\Debug\netcoreapp3.1\Exercicio_Fixacao_4.csprojAssemblyReference.cache
+C:\Users\alanr\Documents\dev\.NET\Aulas-de-C-\Exercicio_Fixacao_4\Exercicio_Fixacao_4\obj\Debug\netcoreapp3.1\Exercicio_Fixacao_4.csproj.CoreCompileInputs.cache
+C:\Users\alanr\Documents\dev\.NET\Aulas-de-C-\Exercicio_Fixacao_4\Exercicio_Fixacao_4\obj\Debug\netcoreapp3.1\Exercicio_Fixacao_4.AssemblyInfoInputs.cache
+C:\Users\alanr\Documents\dev\.NET\Aulas-de-C-\Exercicio_Fixacao_4\Exercicio_Fixacao_4\obj\Debug\netcoreapp3.1\Exercicio_Fixacao_4.AssemblyInfo.cs
+C:\Users\alanr\Documents\dev\.NET\Aulas-de-C-\Exercicio_Fixacao_4\Exercicio_Fixacao_4\obj\Debug\netcoreapp3.1\Exercicio_Fixacao_4.dll
+C:\Users\alanr\Documents\dev\.NET\Aulas-de-C-\Exercicio_Fixacao_4\Exercicio_Fixacao_4\obj\Debug\netcoreapp3.1\Exercicio_Fixacao_4.pdb
+C:\Users\alanr\Documents\dev\.NET\Aulas-de-C-\Exercicio_Fixacao_4\Exercicio_Fixacao_4\obj\Debug\netcoreapp3.1\Exercicio_Fixacao_4.genruntimeconfig.cache
