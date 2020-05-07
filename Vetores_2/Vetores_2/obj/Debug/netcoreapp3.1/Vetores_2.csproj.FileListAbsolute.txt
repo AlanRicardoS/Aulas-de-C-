@@ -1,0 +1,13 @@
+C:\Users\alanr\Documents\dev\.NET\Aulas-de-C-\Vetores_2\Vetores_2\bin\Debug\netcoreapp3.1\Vetores_2.exe
+C:\Users\alanr\Documents\dev\.NET\Aulas-de-C-\Vetores_2\Vetores_2\bin\Debug\netcoreapp3.1\Vetores_2.deps.json
+C:\Users\alanr\Documents\dev\.NET\Aulas-de-C-\Vetores_2\Vetores_2\bin\Debug\netcoreapp3.1\Vetores_2.runtimeconfig.json
+C:\Users\alanr\Documents\dev\.NET\Aulas-de-C-\Vetores_2\Vetores_2\bin\Debug\netcoreapp3.1\Vetores_2.runtimeconfig.dev.json
+C:\Users\alanr\Documents\dev\.NET\Aulas-de-C-\Vetores_2\Vetores_2\bin\Debug\netcoreapp3.1\Vetores_2.dll
+C:\Users\alanr\Documents\dev\.NET\Aulas-de-C-\Vetores_2\Vetores_2\bin\Debug\netcoreapp3.1\Vetores_2.pdb
+C:\Users\alanr\Documents\dev\.NET\Aulas-de-C-\Vetores_2\Vetores_2\obj\Debug\netcoreapp3.1\Vetores_2.csprojAssemblyReference.cache
+C:\Users\alanr\Documents\dev\.NET\Aulas-de-C-\Vetores_2\Vetores_2\obj\Debug\netcoreapp3.1\Vetores_2.csproj.CoreCompileInputs.cache
+C:\Users\alanr\Documents\dev\.NET\Aulas-de-C-\Vetores_2\Vetores_2\obj\Debug\netcoreapp3.1\Vetores_2.AssemblyInfoInputs.cache
+C:\Users\alanr\Documents\dev\.NET\Aulas-de-C-\Vetores_2\Vetores_2\obj\Debug\netcoreapp3.1\Vetores_2.AssemblyInfo.cs
+C:\Users\alanr\Documents\dev\.NET\Aulas-de-C-\Vetores_2\Vetores_2\obj\Debug\netcoreapp3.1\Vetores_2.dll
+C:\Users\alanr\Documents\dev\.NET\Aulas-de-C-\Vetores_2\Vetores_2\obj\Debug\netcoreapp3.1\Vetores_2.pdb
+C:\Users\alanr\Documents\dev\.NET\Aulas-de-C-\Vetores_2\Vetores_2\obj\Debug\netcoreapp3.1\Vetores_2.genruntimeconfig.cache
