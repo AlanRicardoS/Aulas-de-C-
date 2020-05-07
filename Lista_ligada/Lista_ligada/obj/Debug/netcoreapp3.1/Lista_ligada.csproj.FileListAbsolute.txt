@@ -1,0 +1,13 @@
+C:\Users\alanr\Documents\dev\.NET\Aulas-de-C-\Lista_ligada\Lista_ligada\bin\Debug\netcoreapp3.1\Lista_ligada.exe
+C:\Users\alanr\Documents\dev\.NET\Aulas-de-C-\Lista_ligada\Lista_ligada\bin\Debug\netcoreapp3.1\Lista_ligada.deps.json
+C:\Users\alanr\Documents\dev\.NET\Aulas-de-C-\Lista_ligada\Lista_ligada\bin\Debug\netcoreapp3.1\Lista_ligada.runtimeconfig.json
+C:\Users\alanr\Documents\dev\.NET\Aulas-de-C-\Lista_ligada\Lista_ligada\bin\Debug\netcoreapp3.1\Lista_ligada.runtimeconfig.dev.json
+C:\Users\alanr\Documents\dev\.NET\Aulas-de-C-\Lista_ligada\Lista_ligada\bin\Debug\netcoreapp3.1\Lista_ligada.dll
+C:\Users\alanr\Documents\dev\.NET\Aulas-de-C-\Lista_ligada\Lista_ligada\bin\Debug\netcoreapp3.1\Lista_ligada.pdb
+C:\Users\alanr\Documents\dev\.NET\Aulas-de-C-\Lista_ligada\Lista_ligada\obj\Debug\netcoreapp3.1\Lista_ligada.csprojAssemblyReference.cache
+C:\Users\alanr\Documents\dev\.NET\Aulas-de-C-\Lista_ligada\Lista_ligada\obj\Debug\netcoreapp3.1\Lista_ligada.csproj.CoreCompileInputs.cache
+C:\Users\alanr\Documents\dev\.NET\Aulas-de-C-\Lista_ligada\Lista_ligada\obj\Debug\netcoreapp3.1\Lista_ligada.AssemblyInfoInputs.cache
+C:\Users\alanr\Documents\dev\.NET\Aulas-de-C-\Lista_ligada\Lista_ligada\obj\Debug\netcoreapp3.1\Lista_ligada.AssemblyInfo.cs
+C:\Users\alanr\Documents\dev\.NET\Aulas-de-C-\Lista_ligada\Lista_ligada\obj\Debug\netcoreapp3.1\Lista_ligada.dll
+C:\Users\alanr\Documents\dev\.NET\Aulas-de-C-\Lista_ligada\Lista_ligada\obj\Debug\netcoreapp3.1\Lista_ligada.pdb
+C:\Users\alanr\Documents\dev\.NET\Aulas-de-C-\Lista_ligada\Lista_ligada\obj\Debug\netcoreapp3.1\Lista_ligada.genruntimeconfig.cache
