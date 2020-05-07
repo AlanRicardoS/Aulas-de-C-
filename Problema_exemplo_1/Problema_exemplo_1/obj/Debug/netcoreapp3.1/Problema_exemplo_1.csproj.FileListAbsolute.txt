@@ -1,0 +1,12 @@
+C:\Users\alanr\Documents\dev\.NET\Problema_exemplo_1\Problema_exemplo_1\obj\Debug\netcoreapp3.1\Problema_exemplo_1.csproj.CoreCompileInputs.cache
+C:\Users\alanr\Documents\dev\.NET\Problema_exemplo_1\Problema_exemplo_1\obj\Debug\netcoreapp3.1\Problema_exemplo_1.AssemblyInfoInputs.cache
+C:\Users\alanr\Documents\dev\.NET\Problema_exemplo_1\Problema_exemplo_1\obj\Debug\netcoreapp3.1\Problema_exemplo_1.AssemblyInfo.cs
+C:\Users\alanr\Documents\dev\.NET\Problema_exemplo_1\Problema_exemplo_1\bin\Debug\netcoreapp3.1\Problema_exemplo_1.exe
+C:\Users\alanr\Documents\dev\.NET\Problema_exemplo_1\Problema_exemplo_1\bin\Debug\netcoreapp3.1\Problema_exemplo_1.deps.json
+C:\Users\alanr\Documents\dev\.NET\Problema_exemplo_1\Problema_exemplo_1\bin\Debug\netcoreapp3.1\Problema_exemplo_1.runtimeconfig.json
+C:\Users\alanr\Documents\dev\.NET\Problema_exemplo_1\Problema_exemplo_1\bin\Debug\netcoreapp3.1\Problema_exemplo_1.runtimeconfig.dev.json
+C:\Users\alanr\Documents\dev\.NET\Problema_exemplo_1\Problema_exemplo_1\bin\Debug\netcoreapp3.1\Problema_exemplo_1.dll
+C:\Users\alanr\Documents\dev\.NET\Problema_exemplo_1\Problema_exemplo_1\bin\Debug\netcoreapp3.1\Problema_exemplo_1.pdb
+C:\Users\alanr\Documents\dev\.NET\Problema_exemplo_1\Problema_exemplo_1\obj\Debug\netcoreapp3.1\Problema_exemplo_1.dll
+C:\Users\alanr\Documents\dev\.NET\Problema_exemplo_1\Problema_exemplo_1\obj\Debug\netcoreapp3.1\Problema_exemplo_1.pdb
+C:\Users\alanr\Documents\dev\.NET\Problema_exemplo_1\Problema_exemplo_1\obj\Debug\netcoreapp3.1\Problema_exemplo_1.genruntimeconfig.cache

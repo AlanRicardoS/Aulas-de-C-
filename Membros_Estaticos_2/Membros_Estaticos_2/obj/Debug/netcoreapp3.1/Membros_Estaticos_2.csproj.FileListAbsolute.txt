@@ -1,0 +1,13 @@
+C:\Users\alanr\Documents\dev\.NET\Membros_Estaticos_2\Membros_Estaticos_2\bin\Debug\netcoreapp3.1\Membros_Estaticos_2.exe
+C:\Users\alanr\Documents\dev\.NET\Membros_Estaticos_2\Membros_Estaticos_2\bin\Debug\netcoreapp3.1\Membros_Estaticos_2.deps.json
+C:\Users\alanr\Documents\dev\.NET\Membros_Estaticos_2\Membros_Estaticos_2\bin\Debug\netcoreapp3.1\Membros_Estaticos_2.runtimeconfig.json
+C:\Users\alanr\Documents\dev\.NET\Membros_Estaticos_2\Membros_Estaticos_2\bin\Debug\netcoreapp3.1\Membros_Estaticos_2.runtimeconfig.dev.json
+C:\Users\alanr\Documents\dev\.NET\Membros_Estaticos_2\Membros_Estaticos_2\bin\Debug\netcoreapp3.1\Membros_Estaticos_2.dll
+C:\Users\alanr\Documents\dev\.NET\Membros_Estaticos_2\Membros_Estaticos_2\bin\Debug\netcoreapp3.1\Membros_Estaticos_2.pdb
+C:\Users\alanr\Documents\dev\.NET\Membros_Estaticos_2\Membros_Estaticos_2\obj\Debug\netcoreapp3.1\Membros_Estaticos_2.csprojAssemblyReference.cache
+C:\Users\alanr\Documents\dev\.NET\Membros_Estaticos_2\Membros_Estaticos_2\obj\Debug\netcoreapp3.1\Membros_Estaticos_2.csproj.CoreCompileInputs.cache
+C:\Users\alanr\Documents\dev\.NET\Membros_Estaticos_2\Membros_Estaticos_2\obj\Debug\netcoreapp3.1\Membros_Estaticos_2.AssemblyInfoInputs.cache
+C:\Users\alanr\Documents\dev\.NET\Membros_Estaticos_2\Membros_Estaticos_2\obj\Debug\netcoreapp3.1\Membros_Estaticos_2.AssemblyInfo.cs
+C:\Users\alanr\Documents\dev\.NET\Membros_Estaticos_2\Membros_Estaticos_2\obj\Debug\netcoreapp3.1\Membros_Estaticos_2.dll
+C:\Users\alanr\Documents\dev\.NET\Membros_Estaticos_2\Membros_Estaticos_2\obj\Debug\netcoreapp3.1\Membros_Estaticos_2.pdb
+C:\Users\alanr\Documents\dev\.NET\Membros_Estaticos_2\Membros_Estaticos_2\obj\Debug\netcoreapp3.1\Membros_Estaticos_2.genruntimeconfig.cache

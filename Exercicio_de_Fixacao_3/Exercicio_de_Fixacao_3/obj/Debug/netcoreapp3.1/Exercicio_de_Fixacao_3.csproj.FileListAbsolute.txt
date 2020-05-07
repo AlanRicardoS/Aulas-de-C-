@@ -1,0 +1,13 @@
+C:\Users\alanr\Documents\dev\.NET\Exercicio_de_Fixacao_3\Exercicio_de_Fixacao_3\bin\Debug\netcoreapp3.1\Exercicio_de_Fixacao_3.exe
+C:\Users\alanr\Documents\dev\.NET\Exercicio_de_Fixacao_3\Exercicio_de_Fixacao_3\bin\Debug\netcoreapp3.1\Exercicio_de_Fixacao_3.deps.json
+C:\Users\alanr\Documents\dev\.NET\Exercicio_de_Fixacao_3\Exercicio_de_Fixacao_3\bin\Debug\netcoreapp3.1\Exercicio_de_Fixacao_3.runtimeconfig.json
+C:\Users\alanr\Documents\dev\.NET\Exercicio_de_Fixacao_3\Exercicio_de_Fixacao_3\bin\Debug\netcoreapp3.1\Exercicio_de_Fixacao_3.runtimeconfig.dev.json
+C:\Users\alanr\Documents\dev\.NET\Exercicio_de_Fixacao_3\Exercicio_de_Fixacao_3\bin\Debug\netcoreapp3.1\Exercicio_de_Fixacao_3.dll
+C:\Users\alanr\Documents\dev\.NET\Exercicio_de_Fixacao_3\Exercicio_de_Fixacao_3\bin\Debug\netcoreapp3.1\Exercicio_de_Fixacao_3.pdb
+C:\Users\alanr\Documents\dev\.NET\Exercicio_de_Fixacao_3\Exercicio_de_Fixacao_3\obj\Debug\netcoreapp3.1\Exercicio_de_Fixacao_3.csprojAssemblyReference.cache
+C:\Users\alanr\Documents\dev\.NET\Exercicio_de_Fixacao_3\Exercicio_de_Fixacao_3\obj\Debug\netcoreapp3.1\Exercicio_de_Fixacao_3.csproj.CoreCompileInputs.cache
+C:\Users\alanr\Documents\dev\.NET\Exercicio_de_Fixacao_3\Exercicio_de_Fixacao_3\obj\Debug\netcoreapp3.1\Exercicio_de_Fixacao_3.AssemblyInfoInputs.cache
+C:\Users\alanr\Documents\dev\.NET\Exercicio_de_Fixacao_3\Exercicio_de_Fixacao_3\obj\Debug\netcoreapp3.1\Exercicio_de_Fixacao_3.AssemblyInfo.cs
+C:\Users\alanr\Documents\dev\.NET\Exercicio_de_Fixacao_3\Exercicio_de_Fixacao_3\obj\Debug\netcoreapp3.1\Exercicio_de_Fixacao_3.dll
+C:\Users\alanr\Documents\dev\.NET\Exercicio_de_Fixacao_3\Exercicio_de_Fixacao_3\obj\Debug\netcoreapp3.1\Exercicio_de_Fixacao_3.pdb
+C:\Users\alanr\Documents\dev\.NET\Exercicio_de_Fixacao_3\Exercicio_de_Fixacao_3\obj\Debug\netcoreapp3.1\Exercicio_de_Fixacao_3.genruntimeconfig.cache

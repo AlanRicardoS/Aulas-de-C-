@@ -1,0 +1,13 @@
+C:\Users\alanr\Documents\dev\.NET\Problema_1_OO\Problema_1_OO\bin\Debug\netcoreapp3.1\Problema_1_OO.exe
+C:\Users\alanr\Documents\dev\.NET\Problema_1_OO\Problema_1_OO\bin\Debug\netcoreapp3.1\Problema_1_OO.deps.json
+C:\Users\alanr\Documents\dev\.NET\Problema_1_OO\Problema_1_OO\bin\Debug\netcoreapp3.1\Problema_1_OO.runtimeconfig.json
+C:\Users\alanr\Documents\dev\.NET\Problema_1_OO\Problema_1_OO\bin\Debug\netcoreapp3.1\Problema_1_OO.runtimeconfig.dev.json
+C:\Users\alanr\Documents\dev\.NET\Problema_1_OO\Problema_1_OO\bin\Debug\netcoreapp3.1\Problema_1_OO.dll
+C:\Users\alanr\Documents\dev\.NET\Problema_1_OO\Problema_1_OO\bin\Debug\netcoreapp3.1\Problema_1_OO.pdb
+C:\Users\alanr\Documents\dev\.NET\Problema_1_OO\Problema_1_OO\obj\Debug\netcoreapp3.1\Problema_1_OO.csprojAssemblyReference.cache
+C:\Users\alanr\Documents\dev\.NET\Problema_1_OO\Problema_1_OO\obj\Debug\netcoreapp3.1\Problema_1_OO.csproj.CoreCompileInputs.cache
+C:\Users\alanr\Documents\dev\.NET\Problema_1_OO\Problema_1_OO\obj\Debug\netcoreapp3.1\Problema_1_OO.AssemblyInfoInputs.cache
+C:\Users\alanr\Documents\dev\.NET\Problema_1_OO\Problema_1_OO\obj\Debug\netcoreapp3.1\Problema_1_OO.AssemblyInfo.cs
+C:\Users\alanr\Documents\dev\.NET\Problema_1_OO\Problema_1_OO\obj\Debug\netcoreapp3.1\Problema_1_OO.dll
+C:\Users\alanr\Documents\dev\.NET\Problema_1_OO\Problema_1_OO\obj\Debug\netcoreapp3.1\Problema_1_OO.pdb
+C:\Users\alanr\Documents\dev\.NET\Problema_1_OO\Problema_1_OO\obj\Debug\netcoreapp3.1\Problema_1_OO.genruntimeconfig.cache

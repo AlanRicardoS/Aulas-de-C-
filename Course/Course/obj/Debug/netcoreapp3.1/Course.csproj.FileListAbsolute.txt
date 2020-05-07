@@ -1,0 +1,13 @@
+C:\Users\alanr\Documents\dev\.NET\Course\Course\bin\Debug\netcoreapp3.1\Course.exe
+C:\Users\alanr\Documents\dev\.NET\Course\Course\bin\Debug\netcoreapp3.1\Course.deps.json
+C:\Users\alanr\Documents\dev\.NET\Course\Course\bin\Debug\netcoreapp3.1\Course.runtimeconfig.json
+C:\Users\alanr\Documents\dev\.NET\Course\Course\bin\Debug\netcoreapp3.1\Course.runtimeconfig.dev.json
+C:\Users\alanr\Documents\dev\.NET\Course\Course\bin\Debug\netcoreapp3.1\Course.dll
+C:\Users\alanr\Documents\dev\.NET\Course\Course\bin\Debug\netcoreapp3.1\Course.pdb
+C:\Users\alanr\Documents\dev\.NET\Course\Course\obj\Debug\netcoreapp3.1\Course.csprojAssemblyReference.cache
+C:\Users\alanr\Documents\dev\.NET\Course\Course\obj\Debug\netcoreapp3.1\Course.csproj.CoreCompileInputs.cache
+C:\Users\alanr\Documents\dev\.NET\Course\Course\obj\Debug\netcoreapp3.1\Course.AssemblyInfoInputs.cache
+C:\Users\alanr\Documents\dev\.NET\Course\Course\obj\Debug\netcoreapp3.1\Course.AssemblyInfo.cs
+C:\Users\alanr\Documents\dev\.NET\Course\Course\obj\Debug\netcoreapp3.1\Course.dll
+C:\Users\alanr\Documents\dev\.NET\Course\Course\obj\Debug\netcoreapp3.1\Course.pdb
+C:\Users\alanr\Documents\dev\.NET\Course\Course\obj\Debug\netcoreapp3.1\Course.genruntimeconfig.cache

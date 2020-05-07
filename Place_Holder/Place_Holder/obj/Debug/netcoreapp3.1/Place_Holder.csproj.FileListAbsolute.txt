@@ -1,0 +1,13 @@
+C:\Users\alanr\Documents\dev\.NET\Place_Holder\Place_Holder\bin\Debug\netcoreapp3.1\Place_Holder.exe
+C:\Users\alanr\Documents\dev\.NET\Place_Holder\Place_Holder\bin\Debug\netcoreapp3.1\Place_Holder.deps.json
+C:\Users\alanr\Documents\dev\.NET\Place_Holder\Place_Holder\bin\Debug\netcoreapp3.1\Place_Holder.runtimeconfig.json
+C:\Users\alanr\Documents\dev\.NET\Place_Holder\Place_Holder\bin\Debug\netcoreapp3.1\Place_Holder.runtimeconfig.dev.json
+C:\Users\alanr\Documents\dev\.NET\Place_Holder\Place_Holder\bin\Debug\netcoreapp3.1\Place_Holder.dll
+C:\Users\alanr\Documents\dev\.NET\Place_Holder\Place_Holder\bin\Debug\netcoreapp3.1\Place_Holder.pdb
+C:\Users\alanr\Documents\dev\.NET\Place_Holder\Place_Holder\obj\Debug\netcoreapp3.1\Place_Holder.csprojAssemblyReference.cache
+C:\Users\alanr\Documents\dev\.NET\Place_Holder\Place_Holder\obj\Debug\netcoreapp3.1\Place_Holder.csproj.CoreCompileInputs.cache
+C:\Users\alanr\Documents\dev\.NET\Place_Holder\Place_Holder\obj\Debug\netcoreapp3.1\Place_Holder.AssemblyInfoInputs.cache
+C:\Users\alanr\Documents\dev\.NET\Place_Holder\Place_Holder\obj\Debug\netcoreapp3.1\Place_Holder.AssemblyInfo.cs
+C:\Users\alanr\Documents\dev\.NET\Place_Holder\Place_Holder\obj\Debug\netcoreapp3.1\Place_Holder.dll
+C:\Users\alanr\Documents\dev\.NET\Place_Holder\Place_Holder\obj\Debug\netcoreapp3.1\Place_Holder.pdb
+C:\Users\alanr\Documents\dev\.NET\Place_Holder\Place_Holder\obj\Debug\netcoreapp3.1\Place_Holder.genruntimeconfig.cache

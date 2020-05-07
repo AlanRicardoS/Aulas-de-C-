@@ -1,0 +1,13 @@
+C:\Users\alanr\Documents\dev\.NET\Exercicios_de_Fixacao_Static\Exercicios_de_Fixacao_Static\bin\Debug\netcoreapp3.1\Exercicios_de_Fixacao_Static.exe
+C:\Users\alanr\Documents\dev\.NET\Exercicios_de_Fixacao_Static\Exercicios_de_Fixacao_Static\bin\Debug\netcoreapp3.1\Exercicios_de_Fixacao_Static.deps.json
+C:\Users\alanr\Documents\dev\.NET\Exercicios_de_Fixacao_Static\Exercicios_de_Fixacao_Static\bin\Debug\netcoreapp3.1\Exercicios_de_Fixacao_Static.runtimeconfig.json
+C:\Users\alanr\Documents\dev\.NET\Exercicios_de_Fixacao_Static\Exercicios_de_Fixacao_Static\bin\Debug\netcoreapp3.1\Exercicios_de_Fixacao_Static.runtimeconfig.dev.json
+C:\Users\alanr\Documents\dev\.NET\Exercicios_de_Fixacao_Static\Exercicios_de_Fixacao_Static\bin\Debug\netcoreapp3.1\Exercicios_de_Fixacao_Static.dll
+C:\Users\alanr\Documents\dev\.NET\Exercicios_de_Fixacao_Static\Exercicios_de_Fixacao_Static\bin\Debug\netcoreapp3.1\Exercicios_de_Fixacao_Static.pdb
+C:\Users\alanr\Documents\dev\.NET\Exercicios_de_Fixacao_Static\Exercicios_de_Fixacao_Static\obj\Debug\netcoreapp3.1\Exercicios_de_Fixacao_Static.csproj.CoreCompileInputs.cache
+C:\Users\alanr\Documents\dev\.NET\Exercicios_de_Fixacao_Static\Exercicios_de_Fixacao_Static\obj\Debug\netcoreapp3.1\Exercicios_de_Fixacao_Static.AssemblyInfoInputs.cache
+C:\Users\alanr\Documents\dev\.NET\Exercicios_de_Fixacao_Static\Exercicios_de_Fixacao_Static\obj\Debug\netcoreapp3.1\Exercicios_de_Fixacao_Static.AssemblyInfo.cs
+C:\Users\alanr\Documents\dev\.NET\Exercicios_de_Fixacao_Static\Exercicios_de_Fixacao_Static\obj\Debug\netcoreapp3.1\Exercicios_de_Fixacao_Static.dll
+C:\Users\alanr\Documents\dev\.NET\Exercicios_de_Fixacao_Static\Exercicios_de_Fixacao_Static\obj\Debug\netcoreapp3.1\Exercicios_de_Fixacao_Static.pdb
+C:\Users\alanr\Documents\dev\.NET\Exercicios_de_Fixacao_Static\Exercicios_de_Fixacao_Static\obj\Debug\netcoreapp3.1\Exercicios_de_Fixacao_Static.genruntimeconfig.cache
+C:\Users\alanr\Documents\dev\.NET\Exercicios_de_Fixacao_Static\Exercicios_de_Fixacao_Static\obj\Debug\netcoreapp3.1\Exercicios_de_Fixacao_Static.csprojAssemblyReference.cache
