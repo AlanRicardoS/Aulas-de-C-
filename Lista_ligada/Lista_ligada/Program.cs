@@ -20,6 +20,7 @@ namespace Lista_ligada
             list.Add("Matarazzo");
             list.Add("Policarpo");
             list.Insert(3, "Felipe");
+                
             foreach (var item in list)
             {
                 Console.WriteLine(item);
