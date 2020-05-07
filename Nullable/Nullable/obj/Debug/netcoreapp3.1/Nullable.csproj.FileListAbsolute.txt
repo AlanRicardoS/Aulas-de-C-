@@ -1,0 +1,13 @@
+C:\Users\alanr\Documents\dev\.NET\Aulas-de-C-\Nullable\Nullable\bin\Debug\netcoreapp3.1\Nullable.exe
+C:\Users\alanr\Documents\dev\.NET\Aulas-de-C-\Nullable\Nullable\bin\Debug\netcoreapp3.1\Nullable.deps.json
+C:\Users\alanr\Documents\dev\.NET\Aulas-de-C-\Nullable\Nullable\bin\Debug\netcoreapp3.1\Nullable.runtimeconfig.json
+C:\Users\alanr\Documents\dev\.NET\Aulas-de-C-\Nullable\Nullable\bin\Debug\netcoreapp3.1\Nullable.runtimeconfig.dev.json
+C:\Users\alanr\Documents\dev\.NET\Aulas-de-C-\Nullable\Nullable\bin\Debug\netcoreapp3.1\Nullable.dll
+C:\Users\alanr\Documents\dev\.NET\Aulas-de-C-\Nullable\Nullable\bin\Debug\netcoreapp3.1\Nullable.pdb
+C:\Users\alanr\Documents\dev\.NET\Aulas-de-C-\Nullable\Nullable\obj\Debug\netcoreapp3.1\Nullable.csprojAssemblyReference.cache
+C:\Users\alanr\Documents\dev\.NET\Aulas-de-C-\Nullable\Nullable\obj\Debug\netcoreapp3.1\Nullable.csproj.CoreCompileInputs.cache
+C:\Users\alanr\Documents\dev\.NET\Aulas-de-C-\Nullable\Nullable\obj\Debug\netcoreapp3.1\Nullable.AssemblyInfoInputs.cache
+C:\Users\alanr\Documents\dev\.NET\Aulas-de-C-\Nullable\Nullable\obj\Debug\netcoreapp3.1\Nullable.AssemblyInfo.cs
+C:\Users\alanr\Documents\dev\.NET\Aulas-de-C-\Nullable\Nullable\obj\Debug\netcoreapp3.1\Nullable.dll
+C:\Users\alanr\Documents\dev\.NET\Aulas-de-C-\Nullable\Nullable\obj\Debug\netcoreapp3.1\Nullable.pdb
+C:\Users\alanr\Documents\dev\.NET\Aulas-de-C-\Nullable\Nullable\obj\Debug\netcoreapp3.1\Nullable.genruntimeconfig.cache
