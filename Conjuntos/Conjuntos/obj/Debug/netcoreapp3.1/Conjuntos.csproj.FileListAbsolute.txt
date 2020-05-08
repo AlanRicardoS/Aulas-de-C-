@@ -1,0 +1,12 @@
+C:\Users\alanr\Documents\dev\.NET\Aulas-de-C-\Conjuntos\Conjuntos\bin\Debug\netcoreapp3.1\Conjuntos.exe
+C:\Users\alanr\Documents\dev\.NET\Aulas-de-C-\Conjuntos\Conjuntos\bin\Debug\netcoreapp3.1\Conjuntos.deps.json
+C:\Users\alanr\Documents\dev\.NET\Aulas-de-C-\Conjuntos\Conjuntos\bin\Debug\netcoreapp3.1\Conjuntos.runtimeconfig.json
+C:\Users\alanr\Documents\dev\.NET\Aulas-de-C-\Conjuntos\Conjuntos\bin\Debug\netcoreapp3.1\Conjuntos.runtimeconfig.dev.json
+C:\Users\alanr\Documents\dev\.NET\Aulas-de-C-\Conjuntos\Conjuntos\bin\Debug\netcoreapp3.1\Conjuntos.dll
+C:\Users\alanr\Documents\dev\.NET\Aulas-de-C-\Conjuntos\Conjuntos\bin\Debug\netcoreapp3.1\Conjuntos.pdb
+C:\Users\alanr\Documents\dev\.NET\Aulas-de-C-\Conjuntos\Conjuntos\obj\Debug\netcoreapp3.1\Conjuntos.csproj.CoreCompileInputs.cache
+C:\Users\alanr\Documents\dev\.NET\Aulas-de-C-\Conjuntos\Conjuntos\obj\Debug\netcoreapp3.1\Conjuntos.AssemblyInfoInputs.cache
+C:\Users\alanr\Documents\dev\.NET\Aulas-de-C-\Conjuntos\Conjuntos\obj\Debug\netcoreapp3.1\Conjuntos.AssemblyInfo.cs
+C:\Users\alanr\Documents\dev\.NET\Aulas-de-C-\Conjuntos\Conjuntos\obj\Debug\netcoreapp3.1\Conjuntos.dll
+C:\Users\alanr\Documents\dev\.NET\Aulas-de-C-\Conjuntos\Conjuntos\obj\Debug\netcoreapp3.1\Conjuntos.pdb
+C:\Users\alanr\Documents\dev\.NET\Aulas-de-C-\Conjuntos\Conjuntos\obj\Debug\netcoreapp3.1\Conjuntos.genruntimeconfig.cache
