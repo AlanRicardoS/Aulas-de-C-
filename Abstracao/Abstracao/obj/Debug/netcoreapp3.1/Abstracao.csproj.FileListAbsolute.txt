@@ -1,0 +1,13 @@
+C:\Users\alanr\Documents\dev\.NET\Aulas-de-C-\Abstracao\Abstracao\bin\Debug\netcoreapp3.1\Abstracao.exe
+C:\Users\alanr\Documents\dev\.NET\Aulas-de-C-\Abstracao\Abstracao\bin\Debug\netcoreapp3.1\Abstracao.deps.json
+C:\Users\alanr\Documents\dev\.NET\Aulas-de-C-\Abstracao\Abstracao\bin\Debug\netcoreapp3.1\Abstracao.runtimeconfig.json
+C:\Users\alanr\Documents\dev\.NET\Aulas-de-C-\Abstracao\Abstracao\bin\Debug\netcoreapp3.1\Abstracao.runtimeconfig.dev.json
+C:\Users\alanr\Documents\dev\.NET\Aulas-de-C-\Abstracao\Abstracao\bin\Debug\netcoreapp3.1\Abstracao.dll
+C:\Users\alanr\Documents\dev\.NET\Aulas-de-C-\Abstracao\Abstracao\bin\Debug\netcoreapp3.1\Abstracao.pdb
+C:\Users\alanr\Documents\dev\.NET\Aulas-de-C-\Abstracao\Abstracao\obj\Debug\netcoreapp3.1\Abstracao.csprojAssemblyReference.cache
+C:\Users\alanr\Documents\dev\.NET\Aulas-de-C-\Abstracao\Abstracao\obj\Debug\netcoreapp3.1\Abstracao.csproj.CoreCompileInputs.cache
+C:\Users\alanr\Documents\dev\.NET\Aulas-de-C-\Abstracao\Abstracao\obj\Debug\netcoreapp3.1\Abstracao.AssemblyInfoInputs.cache
+C:\Users\alanr\Documents\dev\.NET\Aulas-de-C-\Abstracao\Abstracao\obj\Debug\netcoreapp3.1\Abstracao.AssemblyInfo.cs
+C:\Users\alanr\Documents\dev\.NET\Aulas-de-C-\Abstracao\Abstracao\obj\Debug\netcoreapp3.1\Abstracao.dll
+C:\Users\alanr\Documents\dev\.NET\Aulas-de-C-\Abstracao\Abstracao\obj\Debug\netcoreapp3.1\Abstracao.pdb
+C:\Users\alanr\Documents\dev\.NET\Aulas-de-C-\Abstracao\Abstracao\obj\Debug\netcoreapp3.1\Abstracao.genruntimeconfig.cache

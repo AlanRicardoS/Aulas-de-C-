@@ -1,0 +1,13 @@
+C:\Users\alanr\Documents\dev\.NET\Aulas-de-C-\Abstracao_Exercico_Resolvido\Abstracao_Exercico_Resolvido\bin\Debug\netcoreapp3.1\Abstracao_Exercico_Resolvido.exe
+C:\Users\alanr\Documents\dev\.NET\Aulas-de-C-\Abstracao_Exercico_Resolvido\Abstracao_Exercico_Resolvido\bin\Debug\netcoreapp3.1\Abstracao_Exercico_Resolvido.deps.json
+C:\Users\alanr\Documents\dev\.NET\Aulas-de-C-\Abstracao_Exercico_Resolvido\Abstracao_Exercico_Resolvido\bin\Debug\netcoreapp3.1\Abstracao_Exercico_Resolvido.runtimeconfig.json
+C:\Users\alanr\Documents\dev\.NET\Aulas-de-C-\Abstracao_Exercico_Resolvido\Abstracao_Exercico_Resolvido\bin\Debug\netcoreapp3.1\Abstracao_Exercico_Resolvido.runtimeconfig.dev.json
+C:\Users\alanr\Documents\dev\.NET\Aulas-de-C-\Abstracao_Exercico_Resolvido\Abstracao_Exercico_Resolvido\bin\Debug\netcoreapp3.1\Abstracao_Exercico_Resolvido.dll
+C:\Users\alanr\Documents\dev\.NET\Aulas-de-C-\Abstracao_Exercico_Resolvido\Abstracao_Exercico_Resolvido\bin\Debug\netcoreapp3.1\Abstracao_Exercico_Resolvido.pdb
+C:\Users\alanr\Documents\dev\.NET\Aulas-de-C-\Abstracao_Exercico_Resolvido\Abstracao_Exercico_Resolvido\obj\Debug\netcoreapp3.1\Abstracao_Exercico_Resolvido.csprojAssemblyReference.cache
+C:\Users\alanr\Documents\dev\.NET\Aulas-de-C-\Abstracao_Exercico_Resolvido\Abstracao_Exercico_Resolvido\obj\Debug\netcoreapp3.1\Abstracao_Exercico_Resolvido.csproj.CoreCompileInputs.cache
+C:\Users\alanr\Documents\dev\.NET\Aulas-de-C-\Abstracao_Exercico_Resolvido\Abstracao_Exercico_Resolvido\obj\Debug\netcoreapp3.1\Abstracao_Exercico_Resolvido.AssemblyInfoInputs.cache
+C:\Users\alanr\Documents\dev\.NET\Aulas-de-C-\Abstracao_Exercico_Resolvido\Abstracao_Exercico_Resolvido\obj\Debug\netcoreapp3.1\Abstracao_Exercico_Resolvido.AssemblyInfo.cs
+C:\Users\alanr\Documents\dev\.NET\Aulas-de-C-\Abstracao_Exercico_Resolvido\Abstracao_Exercico_Resolvido\obj\Debug\netcoreapp3.1\Abstracao_Exercico_Resolvido.dll
+C:\Users\alanr\Documents\dev\.NET\Aulas-de-C-\Abstracao_Exercico_Resolvido\Abstracao_Exercico_Resolvido\obj\Debug\netcoreapp3.1\Abstracao_Exercico_Resolvido.pdb
+C:\Users\alanr\Documents\dev\.NET\Aulas-de-C-\Abstracao_Exercico_Resolvido\Abstracao_Exercico_Resolvido\obj\Debug\netcoreapp3.1\Abstracao_Exercico_Resolvido.genruntimeconfig.cache
