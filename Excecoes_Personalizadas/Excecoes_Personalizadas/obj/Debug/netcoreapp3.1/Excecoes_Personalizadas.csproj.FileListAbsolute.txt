@@ -1,0 +1,13 @@
+C:\Users\alanr\Documents\dev\.NET\Aulas-de-C-\Excecoes_Personalizadas\Excecoes_Personalizadas\obj\Debug\netcoreapp3.1\Excecoes_Personalizadas.csprojAssemblyReference.cache
+C:\Users\alanr\Documents\dev\.NET\Aulas-de-C-\Excecoes_Personalizadas\Excecoes_Personalizadas\obj\Debug\netcoreapp3.1\Excecoes_Personalizadas.csproj.CoreCompileInputs.cache
+C:\Users\alanr\Documents\dev\.NET\Aulas-de-C-\Excecoes_Personalizadas\Excecoes_Personalizadas\obj\Debug\netcoreapp3.1\Excecoes_Personalizadas.AssemblyInfoInputs.cache
+C:\Users\alanr\Documents\dev\.NET\Aulas-de-C-\Excecoes_Personalizadas\Excecoes_Personalizadas\obj\Debug\netcoreapp3.1\Excecoes_Personalizadas.AssemblyInfo.cs
+C:\Users\alanr\Documents\dev\.NET\Aulas-de-C-\Excecoes_Personalizadas\Excecoes_Personalizadas\bin\Debug\netcoreapp3.1\Excecoes_Personalizadas.exe
+C:\Users\alanr\Documents\dev\.NET\Aulas-de-C-\Excecoes_Personalizadas\Excecoes_Personalizadas\bin\Debug\netcoreapp3.1\Excecoes_Personalizadas.deps.json
+C:\Users\alanr\Documents\dev\.NET\Aulas-de-C-\Excecoes_Personalizadas\Excecoes_Personalizadas\bin\Debug\netcoreapp3.1\Excecoes_Personalizadas.runtimeconfig.json
+C:\Users\alanr\Documents\dev\.NET\Aulas-de-C-\Excecoes_Personalizadas\Excecoes_Personalizadas\bin\Debug\netcoreapp3.1\Excecoes_Personalizadas.runtimeconfig.dev.json
+C:\Users\alanr\Documents\dev\.NET\Aulas-de-C-\Excecoes_Personalizadas\Excecoes_Personalizadas\bin\Debug\netcoreapp3.1\Excecoes_Personalizadas.dll
+C:\Users\alanr\Documents\dev\.NET\Aulas-de-C-\Excecoes_Personalizadas\Excecoes_Personalizadas\bin\Debug\netcoreapp3.1\Excecoes_Personalizadas.pdb
+C:\Users\alanr\Documents\dev\.NET\Aulas-de-C-\Excecoes_Personalizadas\Excecoes_Personalizadas\obj\Debug\netcoreapp3.1\Excecoes_Personalizadas.dll
+C:\Users\alanr\Documents\dev\.NET\Aulas-de-C-\Excecoes_Personalizadas\Excecoes_Personalizadas\obj\Debug\netcoreapp3.1\Excecoes_Personalizadas.pdb
+C:\Users\alanr\Documents\dev\.NET\Aulas-de-C-\Excecoes_Personalizadas\Excecoes_Personalizadas\obj\Debug\netcoreapp3.1\Excecoes_Personalizadas.genruntimeconfig.cache

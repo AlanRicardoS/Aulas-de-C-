@@ -1,0 +1,13 @@
+C:\Users\alanr\Documents\dev\.NET\Aulas-de-C-\Try_Catch\Try_Catch\bin\Debug\netcoreapp3.1\Try_Catch.exe
+C:\Users\alanr\Documents\dev\.NET\Aulas-de-C-\Try_Catch\Try_Catch\bin\Debug\netcoreapp3.1\Try_Catch.deps.json
+C:\Users\alanr\Documents\dev\.NET\Aulas-de-C-\Try_Catch\Try_Catch\bin\Debug\netcoreapp3.1\Try_Catch.runtimeconfig.json
+C:\Users\alanr\Documents\dev\.NET\Aulas-de-C-\Try_Catch\Try_Catch\bin\Debug\netcoreapp3.1\Try_Catch.runtimeconfig.dev.json
+C:\Users\alanr\Documents\dev\.NET\Aulas-de-C-\Try_Catch\Try_Catch\bin\Debug\netcoreapp3.1\Try_Catch.dll
+C:\Users\alanr\Documents\dev\.NET\Aulas-de-C-\Try_Catch\Try_Catch\bin\Debug\netcoreapp3.1\Try_Catch.pdb
+C:\Users\alanr\Documents\dev\.NET\Aulas-de-C-\Try_Catch\Try_Catch\obj\Debug\netcoreapp3.1\Try_Catch.csprojAssemblyReference.cache
+C:\Users\alanr\Documents\dev\.NET\Aulas-de-C-\Try_Catch\Try_Catch\obj\Debug\netcoreapp3.1\Try_Catch.csproj.CoreCompileInputs.cache
+C:\Users\alanr\Documents\dev\.NET\Aulas-de-C-\Try_Catch\Try_Catch\obj\Debug\netcoreapp3.1\Try_Catch.AssemblyInfoInputs.cache
+C:\Users\alanr\Documents\dev\.NET\Aulas-de-C-\Try_Catch\Try_Catch\obj\Debug\netcoreapp3.1\Try_Catch.AssemblyInfo.cs
+C:\Users\alanr\Documents\dev\.NET\Aulas-de-C-\Try_Catch\Try_Catch\obj\Debug\netcoreapp3.1\Try_Catch.dll
+C:\Users\alanr\Documents\dev\.NET\Aulas-de-C-\Try_Catch\Try_Catch\obj\Debug\netcoreapp3.1\Try_Catch.pdb
+C:\Users\alanr\Documents\dev\.NET\Aulas-de-C-\Try_Catch\Try_Catch\obj\Debug\netcoreapp3.1\Try_Catch.genruntimeconfig.cache
