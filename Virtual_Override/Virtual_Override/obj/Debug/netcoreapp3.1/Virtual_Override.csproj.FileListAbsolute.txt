@@ -1,0 +1,13 @@
+C:\Users\alanr\Documents\dev\.NET\Aulas-de-C-\Virtual_Override\Virtual_Override\bin\Debug\netcoreapp3.1\Virtual_Override.exe
+C:\Users\alanr\Documents\dev\.NET\Aulas-de-C-\Virtual_Override\Virtual_Override\bin\Debug\netcoreapp3.1\Virtual_Override.deps.json
+C:\Users\alanr\Documents\dev\.NET\Aulas-de-C-\Virtual_Override\Virtual_Override\bin\Debug\netcoreapp3.1\Virtual_Override.runtimeconfig.json
+C:\Users\alanr\Documents\dev\.NET\Aulas-de-C-\Virtual_Override\Virtual_Override\bin\Debug\netcoreapp3.1\Virtual_Override.runtimeconfig.dev.json
+C:\Users\alanr\Documents\dev\.NET\Aulas-de-C-\Virtual_Override\Virtual_Override\bin\Debug\netcoreapp3.1\Virtual_Override.dll
+C:\Users\alanr\Documents\dev\.NET\Aulas-de-C-\Virtual_Override\Virtual_Override\bin\Debug\netcoreapp3.1\Virtual_Override.pdb
+C:\Users\alanr\Documents\dev\.NET\Aulas-de-C-\Virtual_Override\Virtual_Override\obj\Debug\netcoreapp3.1\Virtual_Override.csprojAssemblyReference.cache
+C:\Users\alanr\Documents\dev\.NET\Aulas-de-C-\Virtual_Override\Virtual_Override\obj\Debug\netcoreapp3.1\Virtual_Override.csproj.CoreCompileInputs.cache
+C:\Users\alanr\Documents\dev\.NET\Aulas-de-C-\Virtual_Override\Virtual_Override\obj\Debug\netcoreapp3.1\Virtual_Override.AssemblyInfoInputs.cache
+C:\Users\alanr\Documents\dev\.NET\Aulas-de-C-\Virtual_Override\Virtual_Override\obj\Debug\netcoreapp3.1\Virtual_Override.AssemblyInfo.cs
+C:\Users\alanr\Documents\dev\.NET\Aulas-de-C-\Virtual_Override\Virtual_Override\obj\Debug\netcoreapp3.1\Virtual_Override.dll
+C:\Users\alanr\Documents\dev\.NET\Aulas-de-C-\Virtual_Override\Virtual_Override\obj\Debug\netcoreapp3.1\Virtual_Override.pdb
+C:\Users\alanr\Documents\dev\.NET\Aulas-de-C-\Virtual_Override\Virtual_Override\obj\Debug\netcoreapp3.1\Virtual_Override.genruntimeconfig.cache

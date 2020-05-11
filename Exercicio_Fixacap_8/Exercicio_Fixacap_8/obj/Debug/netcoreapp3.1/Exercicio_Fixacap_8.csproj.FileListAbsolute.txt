@@ -1,0 +1,13 @@
+C:\Users\alanr\Documents\dev\.NET\Aulas-de-C-\Exercicio_Fixacap_8\Exercicio_Fixacap_8\bin\Debug\netcoreapp3.1\Exercicio_Fixacap_8.exe
+C:\Users\alanr\Documents\dev\.NET\Aulas-de-C-\Exercicio_Fixacap_8\Exercicio_Fixacap_8\bin\Debug\netcoreapp3.1\Exercicio_Fixacap_8.deps.json
+C:\Users\alanr\Documents\dev\.NET\Aulas-de-C-\Exercicio_Fixacap_8\Exercicio_Fixacap_8\bin\Debug\netcoreapp3.1\Exercicio_Fixacap_8.runtimeconfig.json
+C:\Users\alanr\Documents\dev\.NET\Aulas-de-C-\Exercicio_Fixacap_8\Exercicio_Fixacap_8\bin\Debug\netcoreapp3.1\Exercicio_Fixacap_8.runtimeconfig.dev.json
+C:\Users\alanr\Documents\dev\.NET\Aulas-de-C-\Exercicio_Fixacap_8\Exercicio_Fixacap_8\bin\Debug\netcoreapp3.1\Exercicio_Fixacap_8.dll
+C:\Users\alanr\Documents\dev\.NET\Aulas-de-C-\Exercicio_Fixacap_8\Exercicio_Fixacap_8\bin\Debug\netcoreapp3.1\Exercicio_Fixacap_8.pdb
+C:\Users\alanr\Documents\dev\.NET\Aulas-de-C-\Exercicio_Fixacap_8\Exercicio_Fixacap_8\obj\Debug\netcoreapp3.1\Exercicio_Fixacap_8.csprojAssemblyReference.cache
+C:\Users\alanr\Documents\dev\.NET\Aulas-de-C-\Exercicio_Fixacap_8\Exercicio_Fixacap_8\obj\Debug\netcoreapp3.1\Exercicio_Fixacap_8.csproj.CoreCompileInputs.cache
+C:\Users\alanr\Documents\dev\.NET\Aulas-de-C-\Exercicio_Fixacap_8\Exercicio_Fixacap_8\obj\Debug\netcoreapp3.1\Exercicio_Fixacap_8.AssemblyInfoInputs.cache
+C:\Users\alanr\Documents\dev\.NET\Aulas-de-C-\Exercicio_Fixacap_8\Exercicio_Fixacap_8\obj\Debug\netcoreapp3.1\Exercicio_Fixacap_8.AssemblyInfo.cs
+C:\Users\alanr\Documents\dev\.NET\Aulas-de-C-\Exercicio_Fixacap_8\Exercicio_Fixacap_8\obj\Debug\netcoreapp3.1\Exercicio_Fixacap_8.dll
+C:\Users\alanr\Documents\dev\.NET\Aulas-de-C-\Exercicio_Fixacap_8\Exercicio_Fixacap_8\obj\Debug\netcoreapp3.1\Exercicio_Fixacap_8.pdb
+C:\Users\alanr\Documents\dev\.NET\Aulas-de-C-\Exercicio_Fixacap_8\Exercicio_Fixacap_8\obj\Debug\netcoreapp3.1\Exercicio_Fixacap_8.genruntimeconfig.cache

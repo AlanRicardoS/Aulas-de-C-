@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "DownUp_Casting/1.0.0": {
+        "runtime": {
+          "DownUp_Casting.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DownUp_Casting/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,13 @@
+C:\Users\alanr\Documents\dev\.NET\Aulas-de-C-\Heranca_Exercicio_Resolvido\Heranca_Exercicio_Resolvido\bin\Debug\netcoreapp3.1\Heranca_Exercicio_Resolvido.exe
+C:\Users\alanr\Documents\dev\.NET\Aulas-de-C-\Heranca_Exercicio_Resolvido\Heranca_Exercicio_Resolvido\bin\Debug\netcoreapp3.1\Heranca_Exercicio_Resolvido.deps.json
+C:\Users\alanr\Documents\dev\.NET\Aulas-de-C-\Heranca_Exercicio_Resolvido\Heranca_Exercicio_Resolvido\bin\Debug\netcoreapp3.1\Heranca_Exercicio_Resolvido.runtimeconfig.json
+C:\Users\alanr\Documents\dev\.NET\Aulas-de-C-\Heranca_Exercicio_Resolvido\Heranca_Exercicio_Resolvido\bin\Debug\netcoreapp3.1\Heranca_Exercicio_Resolvido.runtimeconfig.dev.json
+C:\Users\alanr\Documents\dev\.NET\Aulas-de-C-\Heranca_Exercicio_Resolvido\Heranca_Exercicio_Resolvido\bin\Debug\netcoreapp3.1\Heranca_Exercicio_Resolvido.dll
+C:\Users\alanr\Documents\dev\.NET\Aulas-de-C-\Heranca_Exercicio_Resolvido\Heranca_Exercicio_Resolvido\bin\Debug\netcoreapp3.1\Heranca_Exercicio_Resolvido.pdb
+C:\Users\alanr\Documents\dev\.NET\Aulas-de-C-\Heranca_Exercicio_Resolvido\Heranca_Exercicio_Resolvido\obj\Debug\netcoreapp3.1\Heranca_Exercicio_Resolvido.csprojAssemblyReference.cache
+C:\Users\alanr\Documents\dev\.NET\Aulas-de-C-\Heranca_Exercicio_Resolvido\Heranca_Exercicio_Resolvido\obj\Debug\netcoreapp3.1\Heranca_Exercicio_Resolvido.csproj.CoreCompileInputs.cache
+C:\Users\alanr\Documents\dev\.NET\Aulas-de-C-\Heranca_Exercicio_Resolvido\Heranca_Exercicio_Resolvido\obj\Debug\netcoreapp3.1\Heranca_Exercicio_Resolvido.AssemblyInfoInputs.cache
+C:\Users\alanr\Documents\dev\.NET\Aulas-de-C-\Heranca_Exercicio_Resolvido\Heranca_Exercicio_Resolvido\obj\Debug\netcoreapp3.1\Heranca_Exercicio_Resolvido.AssemblyInfo.cs
+C:\Users\alanr\Documents\dev\.NET\Aulas-de-C-\Heranca_Exercicio_Resolvido\Heranca_Exercicio_Resolvido\obj\Debug\netcoreapp3.1\Heranca_Exercicio_Resolvido.dll
+C:\Users\alanr\Documents\dev\.NET\Aulas-de-C-\Heranca_Exercicio_Resolvido\Heranca_Exercicio_Resolvido\obj\Debug\netcoreapp3.1\Heranca_Exercicio_Resolvido.pdb
+C:\Users\alanr\Documents\dev\.NET\Aulas-de-C-\Heranca_Exercicio_Resolvido\Heranca_Exercicio_Resolvido\obj\Debug\netcoreapp3.1\Heranca_Exercicio_Resolvido.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\alanr\Documents\dev\.NET\Aulas-de-C-\DownUp_Casting\DownUp_Casting\bin\Debug\netcoreapp3.1\DownUp_Casting.exe
+C:\Users\alanr\Documents\dev\.NET\Aulas-de-C-\DownUp_Casting\DownUp_Casting\bin\Debug\netcoreapp3.1\DownUp_Casting.deps.json
+C:\Users\alanr\Documents\dev\.NET\Aulas-de-C-\DownUp_Casting\DownUp_Casting\bin\Debug\netcoreapp3.1\DownUp_Casting.runtimeconfig.json
+C:\Users\alanr\Documents\dev\.NET\Aulas-de-C-\DownUp_Casting\DownUp_Casting\bin\Debug\netcoreapp3.1\DownUp_Casting.runtimeconfig.dev.json
+C:\Users\alanr\Documents\dev\.NET\Aulas-de-C-\DownUp_Casting\DownUp_Casting\bin\Debug\netcoreapp3.1\DownUp_Casting.dll
+C:\Users\alanr\Documents\dev\.NET\Aulas-de-C-\DownUp_Casting\DownUp_Casting\bin\Debug\netcoreapp3.1\DownUp_Casting.pdb
+C:\Users\alanr\Documents\dev\.NET\Aulas-de-C-\DownUp_Casting\DownUp_Casting\obj\Debug\netcoreapp3.1\DownUp_Casting.csprojAssemblyReference.cache
+C:\Users\alanr\Documents\dev\.NET\Aulas-de-C-\DownUp_Casting\DownUp_Casting\obj\Debug\netcoreapp3.1\DownUp_Casting.csproj.CoreCompileInputs.cache
+C:\Users\alanr\Documents\dev\.NET\Aulas-de-C-\DownUp_Casting\DownUp_Casting\obj\Debug\netcoreapp3.1\DownUp_Casting.AssemblyInfoInputs.cache
+C:\Users\alanr\Documents\dev\.NET\Aulas-de-C-\DownUp_Casting\DownUp_Casting\obj\Debug\netcoreapp3.1\DownUp_Casting.AssemblyInfo.cs
+C:\Users\alanr\Documents\dev\.NET\Aulas-de-C-\DownUp_Casting\DownUp_Casting\obj\Debug\netcoreapp3.1\DownUp_Casting.dll
+C:\Users\alanr\Documents\dev\.NET\Aulas-de-C-\DownUp_Casting\DownUp_Casting\obj\Debug\netcoreapp3.1\DownUp_Casting.pdb
+C:\Users\alanr\Documents\dev\.NET\Aulas-de-C-\DownUp_Casting\DownUp_Casting\obj\Debug\netcoreapp3.1\DownUp_Casting.genruntimeconfig.cache
